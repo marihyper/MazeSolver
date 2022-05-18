@@ -21,7 +21,7 @@ This is a simple maze solver, making use of recursive methods, written in Java, 
 4) Write your own maze (use the example files in src folder as a guide);
 5) Save your file and carefully name it, since you have to type it later;
 6) On File Explorer, remove the extension .txt from your file;
-7) Import your file into the the src folder.
+7) Import your file into the src folder.
 8) Repeat step 3 of **TEST and USE Instructions**, replacing the example file names with your new file name.
 ### Note:
 Don't forget to fill all spaces of your maze. Use SPACE to fill in your path. If the maze has missing characters in any line or row, the program will crash.
