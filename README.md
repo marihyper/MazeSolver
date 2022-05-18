@@ -9,7 +9,7 @@ This is a simple maze solver, making use of recursive methods, written in Java, 
 
 ## TEST and USE Instructions:
 1) Creat a new project in your prefered IDE;
-2) Import all the files in this repository into the src folder;
+2) Import all the files in the src folder in this repository into the src folder in your IDE;
 3) Run MainMaze Java class;
 4) The program will ask for keyboard input, type maze1 or maze2 or maze3 and press enter;
 5) The program will provide the solution for the maze1, maze2 or maze3 files respectively, which are imported in the src folder.
