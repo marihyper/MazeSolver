@@ -15,8 +15,8 @@ This is a simple maze solver, making use of recursive methods, written in Java, 
 5) The program will provide the solution for the maze1, maze2 or maze3 files respectively, which are imported in the src folder.
 
 ## How to make my own maze:
-1) Creat a new documento in Notepad;
-2) In the firt line, inform the number of lines of your maze, type enter;
+1) Creat a new document in Notepad;
+2) In the first line, inform the number of lines of your maze, type enter;
 3) In the second line, inform the number of rows of your maze, type enter;
 4) Write your own maze (use the example files in src folder as a guide);
 5) Save your file and carefully name it, since you have to type it later;
