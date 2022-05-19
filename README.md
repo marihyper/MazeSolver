@@ -1,5 +1,6 @@
 # MazeSolver
 Imagine you have a maze to solve, like the one bellow, and you would like to run a code to solve it.
+
 ![image](https://user-images.githubusercontent.com/81270107/169141547-11630ad1-e536-41a7-95b4-b5ac30d33f87.png)
 
 This is a simple maze solver, making use of recursive methods, written in Java, that can help you solve similar kind of puzzles, given certain restrictions.
