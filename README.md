@@ -25,5 +25,5 @@ This is a simple maze solver, making use of recursive methods, written in Java, 
 7) Import your file into the src folder.
 8) Repeat step 3 of **TEST and USE Instructions**, replacing the example file names with your new file name.
 ### Note:
-1) Don't forget to fill all spaces of your maze. Use SPACE to fill in your path. If the maze has missing characters, in any line or row, the program will crash.
-2) Your IDE might have remove trailing spaces option on by default. Make sure to turn off that option, since it will mess with the maze files spacing.
+1) Don't forget to fill all spaces of your maze. Use SPACE to fill in your path. If the maze has **missing characters**, in any line or row, the program will crash.
+2) Your IDE might have **remove trailing spaces** option on by default. Make sure to turn **off** that option, since it will mess with the maze files spacing.
